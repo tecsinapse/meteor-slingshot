@@ -1,8 +1,8 @@
 Package.describe({
-  name: "edgee:slingshot",
-  summary: "Directly post files to cloud storage services, such as AWS-S3.",
-  version: "0.7.1-test",
-  git: "https://github.com/CulturalMe/meteor-slingshot"
+  name: "tecsinapse:slingshot",
+  summary: "Directly post files to cloud storage services, such as AWS-S3 fork by TecSinapse.",
+  version: "0.7.2",
+  git: "https://github.com/tecsinapse/meteor-slingshot"
 });
 
 Package.on_use(function (api) {
